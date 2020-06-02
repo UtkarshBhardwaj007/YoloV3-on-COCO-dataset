@@ -3,7 +3,7 @@
 Simple implementation of YoloV3, trained on the COCO data-set, on images and videos.
 Keras(TF backend) implementation of yolo v3 objects detection.
 
-## Requirement
+## Requirements
 - OpenCV 3.4
 - Python 3.6    
 - Tensorflow-gpu 1.5.0  
